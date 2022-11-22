@@ -1,0 +1,304 @@
+/* screen - 7-docente-2 */
+
+.x7-docente-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  height: 667px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.x7-docente-2 .overlap-group6 {
+  height: 73px;
+  position: relative;
+  width: 378px;
+}
+
+.x7-docente-2 .rectngulo-193 {
+  border: 1px solid;
+  border-color: transparent;
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.x7-docente-2 .overlap-group3 {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 73px;
+  left: 1px;
+  min-width: 375px;
+  padding: 0 150px;
+  position: absolute;
+  top: 0;
+}
+
+.x7-docente-2 .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  min-width: 73px;
+}
+
+.x7-docente-2 .overlap-group7 {
+  height: 1112px;
+  position: relative;
+  width: 375px;
+}
+
+.x7-docente-2 .posts {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 16px;
+  min-height: 1112px;
+  position: absolute;
+  top: 0;
+  width: 343px;
+}
+
+.x7-docente-2 .overlap-group {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alice-blue);
+  display: flex;
+  flex-direction: column;
+  min-height: 548px;
+  padding: 1px 0;
+  width: 343px;
+}
+
+.x7-docente-2 .overlap-group1 {
+  height: 128px;
+  margin-right: 1.0px;
+  margin-top: 30px;
+  position: relative;
+  width: 280px;
+}
+
+.x7-docente-2 .taller-ii {
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 0;
+  width: 279px;
+}
+
+.x7-docente-2 .descripcin-de-la-clase {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 87px;
+  width: 279px;
+}
+
+.x7-docente-2 .fecha-de-creacin {
+  left: 4px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: 48px;
+  white-space: nowrap;
+}
+
+.x7-docente-2 .nombre-del-docente {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 98.0px;
+  margin-top: -1px;
+  min-width: 131px;
+  white-space: nowrap;
+}
+
+.x7-docente-2 .rectngulo-235 {
+  background-color: var(--alice-blue);
+  border: 1px solid;
+  border-color: transparent;
+  height: 118px;
+  margin-right: 2.0px;
+  margin-top: 77px;
+  width: 343px;
+}
+
+.x7-docente-2 .rectngulo-204 {
+  background-color: var(--feijoa);
+  border: 1px solid;
+  border-color: transparent;
+  height: 170px;
+  margin-right: 2.0px;
+  width: 343px;
+}
+
+.x7-docente-2 .overlap-group-2 {
+  height: 96px;
+  margin-top: 30px;
+  position: relative;
+  width: 279px;
+}
+
+.x7-docente-2 .excepteur-sint-occaecat {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 0;
+  width: 279px;
+}
+
+.x7-docente-2 .x1h-ago {
+  left: 72px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: 51px;
+  white-space: nowrap;
+}
+
+.x7-docente-2 .lorem-ipsum-dolor-si {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-right: 2.0px;
+  margin-top: 14px;
+  min-height: 41px;
+  width: 279px;
+}
+
+.x7-docente-2 .by-name-surname {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 79.0px;
+  margin-top: 25px;
+  min-width: 122px;
+  white-space: nowrap;
+}
+
+.x7-docente-2 .rectngulo-235-1 {
+  background-color: var(--alice-blue);
+  border: 1px solid;
+  border-color: transparent;
+  height: 118px;
+  margin-right: 2.0px;
+  margin-top: 28px;
+  width: 343px;
+}
+
+.x7-docente-2 .archivos {
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 349px;
+  width: 279px;
+}
+
+.x7-docente-2 .icon-settings {
+  height: 45px;
+  left: 285px;
+  position: absolute;
+  top: 20px;
+  width: 45px;
+}
+
+.x7-docente-2 .group {
+  height: 24px;
+  left: 43px;
+  position: absolute;
+  top: 159px;
+  width: 24px;
+}
+
+.x7-docente-2 .group-10 {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 66px;
+  left: 0;
+  min-width: 375px;
+  padding: 13px 47px;
+  position: absolute;
+  top: 517px;
+}
+
+.x7-docente-2 .noun-ready-2445068-1 {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.x7-docente-2 .vector {
+  height: 24px;
+  margin-left: 55px;
+  margin-top: 2.0px;
+  width: 22px;
+}
+
+.x7-docente-2 .group-1 {
+  cursor: pointer;
+  height: 22px;
+  margin-left: 69px;
+  margin-top: 2.0px;
+  width: 27px;
+}
+
+.x7-docente-2 .group-2 {
+  cursor: pointer;
+  height: 24px;
+  margin-left: 53px;
+  margin-top: 2.0px;
+  width: 24px;
+}
+
+.x7-docente-2 .group-6 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 40px;
+  left: 35px;
+  min-width: 124px;
+  position: absolute;
+  top: 210px;
+}
+
+.x7-docente-2 .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--sea-green);
+  border-radius: 3px;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  min-width: 122px;
+  padding: 10.1px 4.7px;
+}
+
+.x7-docente-2 .crear {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+  text-align: center;
+  width: 113px;
+}
+
+.x7-docente-2 .group-7 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 40px;
+  left: 177px;
+  min-width: 124px;
+  position: absolute;
+  top: 210px;
+}

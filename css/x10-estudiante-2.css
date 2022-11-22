@@ -1,0 +1,135 @@
+/* screen - x10-estudiante-2 */
+
+.x10-estudiante-2 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 632px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.x10-estudiante-2 .group-9 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  min-width: 377px;
+}
+
+.x10-estudiante-2 .overlap-group1 {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 73px;
+  min-width: 375px;
+  padding: 0 150px;
+}
+
+.x10-estudiante-2 .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  min-width: 73px;
+}
+
+.x10-estudiante-2 .post {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+  margin-right: 1.0px;
+  margin-top: 46px;
+  min-height: 181px;
+  width: 280px;
+}
+
+.x10-estudiante-2 .qu-hay-de-nuevo {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1px;
+  min-height: 17px;
+}
+
+.x10-estudiante-2 .overlap-group {
+  height: 135px;
+  position: relative;
+  width: 280px;
+}
+
+.x10-estudiante-2 .tus-eventos-aparecern-aqui {
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  width: 279px;
+}
+
+.x10-estudiante-2 .comienza-unindote-a {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 71px;
+  width: 279px;
+}
+
+.x10-estudiante-2 .group-container {
+  height: 66px;
+  margin-top: 266px;
+  position: relative;
+  width: 375px;
+}
+
+.x10-estudiante-2 .group-10 {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 66px;
+  left: 0;
+  min-width: 375px;
+  padding: 13px 47px;
+  position: absolute;
+  top: 0;
+}
+
+.x10-estudiante-2 .noun-ready-2445068-1 {
+  align-self: flex-end;
+  height: 31px;
+  width: 31px;
+}
+
+.x10-estudiante-2 .vector {
+  cursor: pointer;
+  height: 24px;
+  margin-left: 55px;
+  margin-top: 2.0px;
+  width: 22px;
+}
+
+.x10-estudiante-2 .group {
+  cursor: pointer;
+  height: 22px;
+  margin-left: 69px;
+  margin-top: 2.0px;
+  width: 27px;
+}
+
+.x10-estudiante-2 .group-1 {
+  cursor: pointer;
+  height: 24px;
+  margin-left: 53px;
+  margin-top: 2.0px;
+  width: 24px;
+}
+
+.x10-estudiante-2 .group-2 {
+  cursor: pointer;
+  height: 22px;
+  left: 224px;
+  position: absolute;
+  top: 23px;
+  width: 27px;
+}

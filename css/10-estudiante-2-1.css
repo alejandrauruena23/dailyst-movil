@@ -1,0 +1,175 @@
+/* screen - 10-estudiante-2-1 */
+
+.x10-estudiante-2-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 638px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.x10-estudiante-2-1 .group-9 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 377px;
+}
+
+.x10-estudiante-2-1 .overlap-group4 {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 73px;
+  min-width: 375px;
+  padding: 0 150px;
+}
+
+.x10-estudiante-2-1 .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  min-width: 73px;
+}
+
+.x10-estudiante-2-1 .overlap-group5 {
+  height: 798px;
+  margin-left: -1px;
+  position: relative;
+  width: 375px;
+}
+
+.x10-estudiante-2-1 .post-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 17px;
+  min-height: 798px;
+  position: absolute;
+  top: 0;
+  width: 343px;
+}
+
+.x10-estudiante-2-1 .post {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 391px;
+  width: 353px;
+}
+
+.x10-estudiante-2-1 .overlap-group {
+  align-items: center;
+  background-color: var(--alice-blue);
+  display: flex;
+  flex-direction: column;
+  min-height: 311px;
+  padding: 30px 0;
+  width: 343px;
+}
+
+.x10-estudiante-2-1 .qu-hay-de-nuevo {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 32px;
+  min-height: 17px;
+}
+
+.x10-estudiante-2-1 .x-evento {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: 29px;
+  min-height: 112px;
+  width: 279px;
+}
+
+.x10-estudiante-2-1 .excepteur-sint-occae {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 24px;
+  min-height: 64px;
+  width: 279px;
+}
+
+.x10-estudiante-2-1 .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--feijoa);
+  display: flex;
+  gap: 171px;
+  height: 80px;
+  justify-content: flex-end;
+  min-width: 343px;
+  padding: 27px 30.9px;
+}
+
+.x10-estudiante-2-1 .daylist {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  min-width: 45px;
+  white-space: nowrap;
+}
+
+.x10-estudiante-2-1 .fecha {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-width: 40px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.x10-estudiante-2-1 .taller-ii {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 32px;
+  min-height: 17px;
+}
+
+.x10-estudiante-2-1 .group-10 {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  gap: 146px;
+  height: 66px;
+  left: 0;
+  min-width: 375px;
+  padding: 13px 47px;
+  position: absolute;
+  top: 483px;
+}
+
+.x10-estudiante-2-1 .noun-ready-2445068-1 {
+  align-self: flex-end;
+  height: 31px;
+  width: 31px;
+}
+
+.x10-estudiante-2-1 .group {
+  cursor: pointer;
+  height: 22px;
+  margin-top: 2.0px;
+  width: 27px;
+}
+
+.x10-estudiante-2-1 .vector {
+  cursor: pointer;
+  height: 24px;
+  left: 133px;
+  position: absolute;
+  top: 505px;
+  width: 22px;
+}
+
+.x10-estudiante-2-1 .group-1 {
+  cursor: pointer;
+  height: 24px;
+  left: 304px;
+  position: absolute;
+  top: 505px;
+  width: 24px;
+}

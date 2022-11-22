@@ -1,0 +1,162 @@
+/* screen - 10-estudiante-3 */
+
+.x10-estudiante-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 632px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.x10-estudiante-3 .overlap-group3 {
+  height: 73px;
+  margin-right: -2px;
+  position: relative;
+  width: 377px;
+}
+
+.x10-estudiante-3 .trazado-643 {
+  height: 14px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.x10-estudiante-3 .overlap-group {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 73px;
+  left: 0;
+  min-width: 375px;
+  padding: 0 150px;
+  position: absolute;
+  top: 0;
+}
+
+.x10-estudiante-3 .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  min-width: 73px;
+}
+
+.x10-estudiante-3 .post {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  margin-right: 90.0px;
+  margin-top: 46px;
+  min-height: 122px;
+  width: 189px;
+}
+
+.x10-estudiante-3 .mis-clases {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 30px;
+}
+
+.x10-estudiante-3 .nete-a-un-grupo-de-clase-para-comenzar {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 64px;
+  width: 189px;
+}
+
+.x10-estudiante-3 .group-2 {
+  align-items: flex-end;
+  background-color: var(--goblin-2);
+  border-radius: 28.5px;
+  cursor: pointer;
+  display: flex;
+  height: 57px;
+  margin-right: 31px;
+  margin-top: 229px;
+  min-width: 57px;
+  padding: 16px 17.0px;
+}
+
+.x10-estudiante-3 .overlap-group1 {
+  height: 23px;
+  position: relative;
+  width: 23px;
+}
+
+.x10-estudiante-3 .rectangle-7 {
+  background-color: var(--cultured-pearl);
+  border: 1px none;
+  height: 23px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.x10-estudiante-3 .rectangle-8 {
+  background-color: var(--cultured-pearl);
+  border: 1px none;
+  height: 23px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  transform: rotate(90.00deg);
+  width: 6px;
+}
+
+.x10-estudiante-3 .group-container {
+  height: 66px;
+  margin-top: 39px;
+  position: relative;
+  width: 375px;
+}
+
+.x10-estudiante-3 .group-10 {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 66px;
+  left: 0;
+  min-width: 375px;
+  padding: 13px 47px;
+  position: absolute;
+  top: 0;
+}
+
+.x10-estudiante-3 .noun-ready-2445068-1 {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.x10-estudiante-3 .vector {
+  height: 24px;
+  margin-left: 55px;
+  margin-top: 2.0px;
+  width: 22px;
+}
+
+.x10-estudiante-3 .group {
+  cursor: pointer;
+  height: 24px;
+  margin-left: 149px;
+  margin-top: 2.0px;
+  width: 24px;
+}
+
+.x10-estudiante-3 .group-1 {
+  cursor: pointer;
+  height: 22px;
+  left: 223px;
+  position: absolute;
+  top: 22px;
+  width: 27px;
+}

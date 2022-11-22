@@ -1,0 +1,249 @@
+/* screen - 4-profiles */
+
+.x4-profiles {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 667px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.x4-profiles .overlap-group3 {
+  height: 292px;
+  margin-left: 2.0px;
+  position: relative;
+  width: 377px;
+}
+
+.x4-profiles .trazado-643 {
+  height: 14px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.x4-profiles .navigation-bar {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 100px;
+  position: absolute;
+  top: 0;
+  width: 377px;
+}
+
+.x4-profiles .rectngulo-248 {
+  background-color: var(--sea-green);
+  border: 1px solid;
+  border-color: transparent;
+  height: 20px;
+  width: 375px;
+}
+
+.x4-profiles .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/trazado-645@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  min-width: 375px;
+  padding: 16px 166.7px;
+}
+
+.x4-profiles .perfil {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 15px;
+  min-width: 40px;
+  text-align: center;
+}
+
+.x4-profiles .photo {
+  align-items: flex-start;
+  background-color: var(--feijoa);
+  display: flex;
+  height: 208px;
+  justify-content: flex-end;
+  left: 16px;
+  min-width: 343px;
+  padding: 16.0px 16px;
+  position: absolute;
+  top: 84px;
+}
+
+.x4-profiles .x {
+  background-color: var(--goblin);
+  border-radius: 20px;
+  height: 40px;
+  width: 40px;
+}
+
+.x4-profiles .icon-settings {
+  cursor: pointer;
+  height: 27px;
+  left: 332px;
+  object-fit: cover;
+  position: absolute;
+  top: 36px;
+  width: 22px;
+}
+
+.x4-profiles .info {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 27px;
+  min-width: 345px;
+}
+
+.x4-profiles .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--alice-blue);
+  display: flex;
+  height: 109px;
+  min-width: 343px;
+  padding: 20px 24px;
+}
+
+.x4-profiles .estudiantedescripcin-del-perfil {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 64px;
+  width: 295px;
+}
+
+.x4-profiles .teams {
+  align-items: flex-start;
+  display: flex;
+  height: 134px;
+  margin-left: 2.0px;
+  margin-top: 27px;
+  min-width: 345px;
+}
+
+.x4-profiles .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--alice-blue);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-height: 134px;
+  padding: 18px 22px;
+  width: 343px;
+}
+
+.x4-profiles .grupos-de-clase {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 2px;
+  white-space: nowrap;
+}
+
+.x4-profiles .flex-row {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  min-width: 297px;
+}
+
+.x4-profiles .elipse-101 {
+  background-color: var(--feijoa);
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 20px;
+  height: 40px;
+  width: 40px;
+}
+
+.x4-profiles .elipse-10 {
+  background-color: var(--feijoa);
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 20px;
+  height: 40px;
+  margin-left: 16px;
+  width: 40px;
+}
+
+.x4-profiles .button {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 72px;
+  min-width: 73px;
+}
+
+.x4-profiles .overlap-group-1 {
+  align-items: center;
+  background-color: var(--sea-green);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  min-width: 71px;
+  padding: 0 16.4px;
+}
+
+.x4-profiles .aadir {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-width: 38px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.x4-profiles .group-container {
+  height: 66px;
+  margin-right: 2.0px;
+  margin-top: 12px;
+  position: relative;
+  width: 375px;
+}
+
+.x4-profiles .group-10 {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 66px;
+  left: 0;
+  min-width: 375px;
+  padding: 13px 47px;
+  position: absolute;
+  top: 0;
+}
+
+.x4-profiles .noun-ready-2445068-1 {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.x4-profiles .vector {
+  height: 24px;
+  margin-left: 55px;
+  margin-top: 2.0px;
+  width: 22px;
+}
+
+.x4-profiles .group {
+  height: 24px;
+  margin-left: 149px;
+  margin-top: 2.0px;
+  width: 24px;
+}
+
+.x4-profiles .group-1 {
+  cursor: pointer;
+  height: 22px;
+  left: 224px;
+  position: absolute;
+  top: 22px;
+  width: 27px;
+}

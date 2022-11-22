@@ -1,0 +1,152 @@
+/* screen - 10-docente-4 */
+
+.x10-docente-4 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 632px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.x10-docente-4 .overlap-group2 {
+  height: 73px;
+  margin-right: -2px;
+  position: relative;
+  width: 377px;
+}
+
+.x10-docente-4 .trazado-643 {
+  height: 14px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.x10-docente-4 .overlap-group {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 73px;
+  left: 0;
+  min-width: 375px;
+  padding: 0 150px;
+  position: absolute;
+  top: 0;
+}
+
+.x10-docente-4 .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  min-width: 73px;
+}
+
+.x10-docente-4 .post {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  margin-right: 83.0px;
+  margin-top: 46px;
+  min-height: 122px;
+  width: 182px;
+}
+
+.x10-docente-4 .mis-clases {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 30px;
+}
+
+.x10-docente-4 .agrega-un-grupo-de-clase-para-comenzar {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 64px;
+  width: 182px;
+}
+
+.x10-docente-4 .group-2 {
+  align-items: flex-end;
+  background-color: var(--goblin-2);
+  border-radius: 28.5px;
+  cursor: pointer;
+  display: flex;
+  height: 57px;
+  margin-right: 31px;
+  margin-top: 229px;
+  min-width: 57px;
+  padding: 16px 17.0px;
+}
+
+.x10-docente-4 .overlap-group1 {
+  height: 23px;
+  position: relative;
+  width: 23px;
+}
+
+.x10-docente-4 .rectangle-7 {
+  background-color: var(--cultured-pearl);
+  border: 1px none;
+  height: 23px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.x10-docente-4 .rectangle-8 {
+  background-color: var(--cultured-pearl);
+  border: 1px none;
+  height: 23px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  transform: rotate(90.00deg);
+  width: 6px;
+}
+
+.x10-docente-4 .group-10 {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 66px;
+  margin-top: 39px;
+  min-width: 375px;
+  padding: 13px 47px;
+}
+
+.x10-docente-4 .noun-ready-2445068-1 {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.x10-docente-4 .vector {
+  height: 24px;
+  margin-left: 55px;
+  margin-top: 2.0px;
+  width: 22px;
+}
+
+.x10-docente-4 .group {
+  cursor: pointer;
+  height: 22px;
+  margin-left: 69px;
+  margin-top: 2.0px;
+  width: 27px;
+}
+
+.x10-docente-4 .group-1 {
+  cursor: pointer;
+  height: 24px;
+  margin-left: 53px;
+  margin-top: 2.0px;
+  width: 24px;
+}

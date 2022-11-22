@@ -1,0 +1,71 @@
+/* screen - 7-pop-over-10 */
+
+.x7-pop-over-10 {
+  align-items: flex-start;
+  background-color: var(--alice-blue);
+  border: 1px none;
+  display: flex;
+  height: 667px;
+  padding: 116px 46px;
+  width: 375px;
+}
+
+.x7-pop-over-10 .overlap-group2 {
+  height: 434px;
+  margin-left: 2px;
+  margin-top: 1px;
+  position: relative;
+  width: 281px;
+}
+
+.x7-pop-over-10 .overlap-group {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 30px 15px #2699fb1a;
+  display: flex;
+  height: 434px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 279px;
+  padding: 153px 67.8px;
+  position: absolute;
+  top: 0;
+}
+
+.x7-pop-over-10 .este-grupo-no-existe {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-width: 133px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.x7-pop-over-10 .noun-wrong-1042921-1 {
+  height: 239px;
+  left: 15px;
+  position: absolute;
+  top: 42px;
+  width: 239px;
+}
+
+.x7-pop-over-10 .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--sea-green);
+  border-radius: 3px;
+  display: flex;
+  height: 59px;
+  left: 44px;
+  min-width: 182px;
+  padding: 15px 7px;
+  position: absolute;
+  top: 342px;
+}
+
+.x7-pop-over-10 .salir {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  text-align: center;
+  width: 168px;
+}

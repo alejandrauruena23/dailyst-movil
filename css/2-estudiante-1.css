@@ -1,0 +1,142 @@
+/* screen - 2-estudiante-1 */
+
+.x2-estudiante-1 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 667px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.x2-estudiante-1 .group-9 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  min-width: 377px;
+}
+
+.x2-estudiante-1 .overlap-group {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 73px;
+  min-width: 375px;
+  padding: 0 150px;
+}
+
+.x2-estudiante-1 .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  min-width: 73px;
+}
+
+.x2-estudiante-1 .group {
+  align-self: flex-start;
+  cursor: pointer;
+  height: 27px;
+  margin-left: 26px;
+  margin-top: 25px;
+  width: 19px;
+}
+
+.x2-estudiante-1 .unirse-a-un-grupo-de-clase {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-right: 9.0px;
+  margin-top: 37px;
+  min-width: 318px;
+  white-space: nowrap;
+}
+
+.x2-estudiante-1 .post {
+  align-items: flex-start;
+  display: flex;
+  height: 64px;
+  margin-right: 48.0px;
+  margin-top: 14px;
+  min-width: 279px;
+}
+
+.x2-estudiante-1 .introduce-el-cdigo {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 64px;
+  width: 279px;
+}
+
+.x2-estudiante-1 .input {
+  height: 50px;
+  margin-top: 13px;
+  width: 327px;
+}
+
+.x2-estudiante-1 .group-6 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 3.0px;
+  margin-top: 172px;
+  min-width: 184px;
+}
+
+.x2-estudiante-1 .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--orange-yellow);
+  border-radius: 3px;
+  display: flex;
+  height: 59px;
+  min-width: 182px;
+  padding: 15px 7px;
+}
+
+.x2-estudiante-1 .continuar {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  text-align: center;
+  width: 168px;
+}
+
+.x2-estudiante-1 .group-10 {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 66px;
+  margin-right: 2.0px;
+  margin-top: 37px;
+  min-width: 375px;
+  padding: 13px 47px;
+}
+
+.x2-estudiante-1 .noun-ready-2445068-1 {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.x2-estudiante-1 .vector {
+  height: 24px;
+  margin-left: 55px;
+  margin-top: 2.0px;
+  width: 22px;
+}
+
+.x2-estudiante-1 .group-1 {
+  cursor: pointer;
+  height: 22px;
+  margin-left: 69px;
+  margin-top: 2.0px;
+  width: 27px;
+}
+
+.x2-estudiante-1 .group-2 {
+  cursor: pointer;
+  height: 24px;
+  margin-left: 52px;
+  width: 24px;
+}

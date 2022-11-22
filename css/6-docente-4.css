@@ -1,0 +1,281 @@
+/* screen - 6-docente-4 */
+
+.x6-docente-4 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 622px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.x6-docente-4 .overlap-group8 {
+  height: 1095px;
+  margin-top: -1px;
+  position: relative;
+  width: 378px;
+}
+
+.x6-docente-4 .posts-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 1026px;
+  position: absolute;
+  top: 69px;
+  width: 375px;
+}
+
+.x6-docente-4 .posts {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 342px;
+  width: 381px;
+}
+
+.x6-docente-4 .overlap-group {
+  align-items: flex-start;
+  background-color: var(--feijoa);
+  display: flex;
+  height: 160px;
+  min-width: 375px;
+  padding: 14px 24px;
+}
+
+.x6-docente-4 .category {
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.x6-docente-4 .overlap-group-2 {
+  align-items: center;
+  background-color: var(--alice-blue);
+  display: flex;
+  flex-direction: column;
+  min-height: 182px;
+  padding: 22px 0;
+  width: 375px;
+}
+
+.x6-docente-4 .taller-2 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 24px;
+  min-height: 30px;
+}
+
+.x6-docente-4 .descripcin-de-la-cl {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 7px;
+  min-height: 40px;
+  width: 327px;
+}
+
+.x6-docente-4 .numero-de-estudiantes {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 106.0px;
+  margin-top: 30px;
+  min-width: 155px;
+  white-space: nowrap;
+}
+
+.x6-docente-4 .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--alice-blue);
+  display: flex;
+  flex-direction: column;
+  min-height: 182px;
+  padding: 22px 0;
+  width: 375px;
+}
+
+.x6-docente-4 .tecnologa-iii {
+  color: var(--sprout);
+  font-family: var(--font-family-academico-bold);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 24px;
+  min-height: 30px;
+}
+
+.x6-docente-4 .lorem-ipsum-dolor-si {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 7px;
+  min-height: 40px;
+  width: 327px;
+}
+
+.x6-docente-4 .number {
+  color: var(--sprout);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 57px;
+  margin-top: 30px;
+  white-space: nowrap;
+}
+
+.x6-docente-4 .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 160px;
+  min-width: 375px;
+  padding: 14px 24px;
+}
+
+.x6-docente-4 .category-1 {
+  color: var(--alice-blue);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.x6-docente-4 .name-surname {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 24px;
+  min-height: 24px;
+}
+
+.x6-docente-4 .lorem-ipsum-dolor-si-1 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 13px;
+  min-height: 40px;
+  width: 327px;
+}
+
+.x6-docente-4 .number-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 57px;
+  margin-top: 30px;
+  white-space: nowrap;
+}
+
+.x6-docente-4 .group-10 {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 66px;
+  left: 0;
+  min-width: 375px;
+  padding: 13.0px 47px;
+  position: absolute;
+  top: 557px;
+}
+
+.x6-docente-4 .noun-ready-2445068-1 {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.x6-docente-4 .vector {
+  height: 22px;
+  margin-bottom: 1.03px;
+  margin-left: 55px;
+  width: 22px;
+}
+
+.x6-docente-4 .group {
+  cursor: pointer;
+  height: 22px;
+  margin-left: 69px;
+  margin-top: 2.0px;
+  width: 27px;
+}
+
+.x6-docente-4 .group-1 {
+  cursor: pointer;
+  height: 24px;
+  margin-left: 53px;
+  margin-top: 2.0px;
+  width: 24px;
+}
+
+.x6-docente-4 .overlap-group6 {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 73px;
+  left: 0;
+  min-width: 376px;
+  padding: 0 150.4px;
+  position: absolute;
+  top: 0;
+}
+
+.x6-docente-4 .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  width: 73px;
+}
+
+.x6-docente-4 .group-2 {
+  align-items: flex-end;
+  background-color: var(--goblin-2);
+  border-radius: 28.5px;
+  cursor: pointer;
+  display: flex;
+  height: 57px;
+  left: 287px;
+  min-width: 57px;
+  padding: 16px 17.0px;
+  position: absolute;
+  top: 470px;
+}
+
+.x6-docente-4 .overlap-group7 {
+  height: 23px;
+  position: relative;
+  width: 23px;
+}
+
+.x6-docente-4 .rectangle-7 {
+  background-color: var(--cultured-pearl);
+  border: 1px none;
+  height: 23px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.x6-docente-4 .rectangle-8 {
+  background-color: var(--cultured-pearl);
+  border: 1px none;
+  height: 23px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  transform: rotate(90.00deg);
+  width: 6px;
+}
+
+.x6-docente-4 .mis-clases {
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 118px;
+}

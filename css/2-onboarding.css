@@ -1,0 +1,123 @@
+/* screen - 2-onboarding */
+
+.x2-onboarding {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  width: 375px;
+}
+
+.x2-onboarding .overlap-group1 {
+  height: 667px;
+  position: relative;
+  width: 375px;
+}
+
+.x2-onboarding .bg {
+  background-color: var(--orange-yellow);
+  border: 1px solid;
+  border-color: transparent;
+  height: 375px;
+  left: 0;
+  position: absolute;
+  top: 292px;
+  width: 375px;
+}
+
+.x2-onboarding .group-6 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 59px;
+  left: 97px;
+  min-width: 184px;
+  position: absolute;
+  top: 551px;
+}
+
+.x2-onboarding .overlap-group {
+  align-items: flex-start;
+  background-color: var(--goblin);
+  border-radius: 3px;
+  display: flex;
+  height: 59px;
+  min-width: 182px;
+  padding: 15px 7px;
+}
+
+.x2-onboarding .continuar {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  text-align: center;
+  width: 168px;
+}
+
+.x2-onboarding .bg-1 {
+  background-color: var(--goblin);
+  border: 1px solid;
+  border-color: transparent;
+  height: 446px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.x2-onboarding .title {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 30px;
+  min-height: 428px;
+  position: absolute;
+  top: 91px;
+  width: 321px;
+}
+
+.x2-onboarding .bienvenido-a-dailyst {
+  color: var(--cultured-pearl);
+  font-family: var(--font-family-academico-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 8.62px;
+  min-height: 98px;
+  min-width: 275px;
+  text-align: center;
+}
+
+.x2-onboarding .tu-app-para-optimiza {
+  color: var(--cultured-pearl);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 6.0px;
+  margin-top: 9px;
+  min-height: 40px;
+  text-align: center;
+  width: 315px;
+}
+
+.x2-onboarding .tu-app-para-optimiza-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 6.0px;
+  margin-top: 241px;
+  min-height: 40px;
+  text-align: center;
+  width: 315px;
+}
+
+.x2-onboarding .asset-1-1 {
+  height: 141px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 274px;
+  width: 125px;
+}

@@ -1,0 +1,374 @@
+/* screen - 3-settings-15 */
+
+.x3-settings-15 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 655px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.x3-settings-15 .overlap-group5 {
+  height: 173px;
+  margin-top: -109px;
+  position: relative;
+  width: 377px;
+}
+
+.x3-settings-15 .navigation-bar {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 68px;
+  position: absolute;
+  top: 105px;
+  width: 377px;
+}
+
+.x3-settings-15 .rectngulo-475 {
+  background-color: var(--alice-blue);
+  border: 1px solid;
+  border-color: transparent;
+  height: 20px;
+  width: 375px;
+}
+
+.x3-settings-15 .overlap-group {
+  align-items: flex-start;
+  background-color: var(--alice-blue);
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  min-width: 375px;
+  padding: 14px 133.9px;
+}
+
+.x3-settings-15 .configuracin {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+  min-width: 107px;
+  text-align: center;
+}
+
+.x3-settings-15 .button {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 40px;
+  left: 281px;
+  min-width: 78px;
+  position: absolute;
+  top: 125px;
+}
+
+.x3-settings-15 .overlap-group1 {
+  align-items: center;
+  background-color: var(--sea-green);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  min-width: 76px;
+  padding: 0 12.4px;
+}
+
+.x3-settings-15 .guardar {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-width: 48px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.x3-settings-15 .rectngulo-324 {
+  border: 1px solid;
+  border-color: transparent;
+  height: 127px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.x3-settings-15 .trazado-110 {
+  height: 18px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 109px;
+  width: 24px;
+}
+
+.x3-settings-15 .rectngulo-570 {
+  border: 1px solid;
+  border-color: transparent;
+  height: 114px;
+  left: 0;
+  position: absolute;
+  top: 13px;
+  width: 37px;
+}
+
+.x3-settings-15 .trazado-151 {
+  height: 18px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 109px;
+  width: 32px;
+}
+
+.x3-settings-15 .rectngulo-1091 {
+  border: 2px solid;
+  border-color: var(--sea-green);
+  border-radius: 4px;
+  height: 103px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 305px;
+}
+
+.x3-settings-15 .overlap-group4 {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 73px;
+  left: 0;
+  min-width: 375px;
+  padding: 0 150px;
+  position: absolute;
+  top: 97px;
+}
+
+.x3-settings-15 .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  min-width: 73px;
+}
+
+.x3-settings-15 .overlap-group7 {
+  height: 471px;
+  margin-top: 4px;
+  position: relative;
+  width: 377px;
+}
+
+.x3-settings-15 .overlap-group2 {
+  height: 242px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.x3-settings-15 .hero {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 242px;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.x3-settings-15 .photo {
+  background-color: var(--feijoa);
+  height: 136px;
+  width: 375px;
+}
+
+.x3-settings-15 .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--alice-blue);
+  display: flex;
+  flex-direction: column;
+  min-height: 106px;
+  padding: 28px 32px;
+  width: 375px;
+}
+
+.x3-settings-15 .taller-ii {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 2px;
+  white-space: nowrap;
+}
+
+.x3-settings-15 .name {
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.x3-settings-15 .jkl325 {
+  left: 239px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 166px;
+  width: 104px;
+}
+
+.x3-settings-15 .group {
+  cursor: pointer;
+  height: 27px;
+  left: 32px;
+  position: absolute;
+  top: 100px;
+  width: 19px;
+}
+
+.x3-settings-15 .input {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 24px;
+  min-height: 248px;
+  position: absolute;
+  top: 223px;
+  width: 327px;
+}
+
+.x3-settings-15 .overlap-group-2 {
+  align-items: center;
+  background-image: url(../img/trazado-644@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 327px;
+  padding: 0 13.6px;
+}
+
+.x3-settings-15 .nombre {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 38px;
+  text-align: right;
+}
+
+.x3-settings-15 .overlap-group1-1 {
+  align-items: center;
+  background-image: url(../img/trazado-644@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 327px;
+  padding: 0 12.2px;
+}
+
+.x3-settings-15 .descripcin {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 56px;
+  text-align: right;
+}
+
+.x3-settings-15 .overlap-group2-1 {
+  align-items: center;
+  background-image: url(../img/trazado-644@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 327px;
+  padding: 0 8.4px;
+}
+
+.x3-settings-15 .nmero-de-estudiantes {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 111px;
+  text-align: right;
+}
+
+.x3-settings-15 .overlap-group3 {
+  align-items: center;
+  background-image: url(../img/trazado-644@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 327px;
+  padding: 0 13.8px;
+}
+
+.x3-settings-15 .das-a-la-semana {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 80px;
+  text-align: right;
+}
+
+.x3-settings-15 .overlap-group6 {
+  height: 66px;
+  margin-left: -1px;
+  margin-top: 50px;
+  position: relative;
+  width: 375px;
+}
+
+.x3-settings-15 .jkl325-1 {
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+  width: 104px;
+}
+
+.x3-settings-15 .group-10 {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 66px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 375px;
+  padding: 13px 45px;
+  position: absolute;
+  top: 0;
+}
+
+.x3-settings-15 .noun-ready-2445068-1 {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.x3-settings-15 .vector {
+  height: 25px;
+  margin-left: 57px;
+  margin-top: 0.68px;
+  width: 22px;
+}
+
+.x3-settings-15 .group-1 {
+  cursor: pointer;
+  height: 23px;
+  margin-left: 69px;
+  margin-top: 0.68px;
+  width: 27px;
+}
+
+.x3-settings-15 .group-2 {
+  cursor: pointer;
+  height: 25px;
+  margin-left: 53px;
+  margin-top: 0.68px;
+  width: 24px;
+}

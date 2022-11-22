@@ -1,0 +1,38 @@
+/* screen - 1-onboarding */
+
+.x1-onboarding {
+  align-items: flex-start;
+  background-color: var(--alice-blue);
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  height: 667px;
+  width: 375px;
+}
+
+.x1-onboarding .overlap-group {
+  align-items: center;
+  background-color: var(--goblin);
+  display: flex;
+  gap: 7px;
+  height: 677px;
+  justify-content: flex-end;
+  margin-top: -10px;
+  min-width: 375px;
+  padding: 308px 103px;
+}
+
+.x1-onboarding .asset-1-1 {
+  align-self: flex-end;
+  height: 51px;
+  object-fit: cover;
+  width: 45px;
+}
+
+.x1-onboarding .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 8.0px;
+  min-height: 39px;
+  min-width: 116px;
+}

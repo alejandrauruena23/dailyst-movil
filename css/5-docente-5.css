@@ -1,0 +1,88 @@
+/* screen - 5-docente-5 */
+
+.x5-docente-5 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 667px;
+  padding: 33px 0;
+  width: 375px;
+}
+
+.x5-docente-5 .group {
+  cursor: pointer;
+  height: 27px;
+  margin-left: 52px;
+  width: 19px;
+}
+
+.x5-docente-5 .overlap-group {
+  height: 310px;
+  margin-top: 56px;
+  position: relative;
+  width: 375px;
+}
+
+.x5-docente-5 .cards {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  height: 310px;
+  left: 0;
+  min-width: 375px;
+  position: absolute;
+  top: 0;
+}
+
+.x5-docente-5 .rectngulo-14 {
+  background-color: var(--alice-blue);
+  border: 1px solid;
+  border-color: transparent;
+  height: 270px;
+  width: 32px;
+}
+
+.x5-docente-5 .rectngulo-144 {
+  background-color: var(--alice-blue);
+  border: 1px solid;
+  border-color: transparent;
+  height: 310px;
+  width: 295px;
+}
+
+.x5-docente-5 .group-1 {
+  height: 233px;
+  left: 71px;
+  position: absolute;
+  top: 38px;
+  width: 233px;
+}
+
+.x5-docente-5 .title {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  margin-right: 12.0px;
+  min-height: 126px;
+  width: 297px;
+}
+
+.x5-docente-5 .ahora-puedes-autenti {
+  letter-spacing: 0;
+  line-height: 30px;
+  text-align: center;
+  width: 293px;
+}
+
+.x5-docente-5 .muestra-tu-dispositi {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 3.37px;
+  min-height: 65px;
+  text-align: center;
+  width: 279px;
+}

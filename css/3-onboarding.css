@@ -1,0 +1,536 @@
+/* screen - 1-registrarse-1 */
+
+.x1-registrarse-1 {
+  background-color: #f1f9ff;
+  border: 1px none;
+  height: 667px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.x1-registrarse-1 .rectangle-8-C61RwL {
+  --z-index: 0;
+  background-color: #458d4ecc;
+  border: 1px none;
+  height: 668px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 375px;
+}
+
+.x1-registrarse-1 .account-signup-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 503px;
+  left: 24px;
+  opacity: 1;
+  position: absolute;
+  top: 82px;
+  width: 329px;
+}
+
+.x1-registrarse-1 .rectngulo-84-oP532f {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: transparent;
+  height: 503px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 327px;
+}
+
+.x1-registrarse-1 .input-oP532f {
+  --z-index: 1;
+  background-color: transparent;
+  height: 275px;
+  left: 24px;
+  opacity: 1;
+  position: absolute;
+  top: 117px;
+  width: 279px;
+}
+
+.x1-registrarse-1 .input-T4bLFL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 55px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 281px;
+}
+
+.x1-registrarse-1 .rectngulo-85-v9Cjou {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #98d488;
+  height: 55px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 279px;
+}
+
+.x1-registrarse-1 .full-name-v9Cjou {
+  --z-index: 1;
+  background-color: transparent;
+  color: #98d488;
+  font-family: 'Inter', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: 53px;
+}
+
+.x1-registrarse-1 .input-ZT5pMQ {
+  --z-index: 1;
+  background-color: transparent;
+  height: 55px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 73px;
+  width: 281px;
+}
+
+.x1-registrarse-1 .rectngulo-85-Zlk5wd {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #98d488;
+  height: 55px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 279px;
+}
+
+.x1-registrarse-1 .email-Zlk5wd {
+  --z-index: 1;
+  background-color: transparent;
+  color: #98d488;
+  font-family: 'Inter', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: 46px;
+}
+
+.x1-registrarse-1 .input-Zax2H6 {
+  --z-index: 2;
+  background-color: transparent;
+  height: 55px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 147px;
+  width: 281px;
+}
+
+.x1-registrarse-1 .rectngulo-85-mHZxv4 {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #98d488;
+  height: 55px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 279px;
+}
+
+.x1-registrarse-1 .password-mHZxv4 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #98d488;
+  font-family: 'Inter', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: 77px;
+}
+
+.x1-registrarse-1 .input-b6nRmd {
+  --z-index: 3;
+  background-color: transparent;
+  height: 55px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 220px;
+  width: 281px;
+}
+
+.x1-registrarse-1 .rectngulo-85-XT1SxS {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #98d488;
+  height: 55px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 279px;
+}
+
+.x1-registrarse-1 .confirm-password-XT1SxS {
+  --z-index: 1;
+  background-color: transparent;
+  color: #98d488;
+  font-family: 'Inter', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: 144px;
+}
+
+.x1-registrarse-1 .create-an-account-oP532f {
+  --z-index: 2;
+  background-color: transparent;
+  color: #474747;
+  font-family: 'Exo 2', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 89px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 49px;
+  white-space: nowrap;
+  width: 150px;
+}
+
+.x1-registrarse-1 .group-6-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  left: 97px;
+  opacity: 1;
+  position: absolute;
+  top: 496px;
+  width: 184px;
+}
+
+.x1-registrarse-1 .rectangle-7-PIEh7b {
+  --z-index: 0;
+  background-color: #458d4e;
+  border: 1px none;
+  border-radius: 3px;
+  height: 59px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 182px;
+}
+
+.x1-registrarse-1 .continuar-PIEh7b {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Exo 2', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 168px;
+}
+/* screen - 3-onboarding */
+
+.x3-onboarding {
+  background-color: #bde5b2;
+  border: 1px none;
+  height: 667px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.x3-onboarding .rectangle-9-C61RwL {
+  --z-index: 0;
+  background-color: #eeffe9;
+  border: 1px none;
+  height: 668px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+
+.x3-onboarding .trazado-235-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/trazado-235@2x.png);
+  background-size: 100% 100%;
+  height: 106px;
+  left: -20150px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 9754px;
+  width: 123px;
+}
+
+.x3-onboarding .trazado-236-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/trazado-235@2x.png);
+  background-size: 100% 100%;
+  height: 106px;
+  left: -20150px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 9754px;
+  width: 123px;
+}
+
+.x3-onboarding .trazado-235-VMr6Om {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/trazado-235@2x.png);
+  background-size: 100% 100%;
+  height: 106px;
+  left: -20150px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 9754px;
+  width: 123px;
+}
+
+.x3-onboarding .rectngulo-1480-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 40px;
+  height: 164px;
+  left: 17px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 280px;
+  width: 160px;
+}
+
+.x3-onboarding .rectngulo-1481-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 40px;
+  height: 164px;
+  left: 197px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 280px;
+  width: 160px;
+}
+
+.x3-onboarding .trazado-236-VMr6Om {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/trazado-235@2x.png);
+  background-size: 100% 100%;
+  height: 106px;
+  left: -20150px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 9754px;
+  width: 123px;
+}
+
+.x3-onboarding .elige-tu-rol-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: #308c37;
+  font-family: 'Academico-Bold', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 204px;
+  width: 275px;
+}
+
+.x3-onboarding .group-8-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  cursor: pointer;
+  height: 157px;
+  left: 45px;
+  opacity: 1;
+  position: absolute;
+  top: 301px;
+  width: 109px;
+}
+
+.x3-onboarding .soy-estudiante-3cZhlu {
+  --z-index: 0;
+  background-color: transparent;
+  color: #474747;
+  font-family: 'Exo 2', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 114px;
+  width: 102px;
+}
+
+.x3-onboarding .group-3cZhlu {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/group-46@2x.svg);
+  background-size: 100% 100%;
+  height: 92px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 107px;
+}
+
+.x3-onboarding .group-7-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  cursor: pointer;
+  height: 157px;
+  left: 226px;
+  opacity: 1;
+  position: absolute;
+  top: 301px;
+  width: 116px;
+}
+
+.x3-onboarding .soy-docente-SO40Oe {
+  --z-index: 0;
+  background-color: transparent;
+  color: #474747;
+  font-family: 'Exo 2', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 114px;
+  width: 102px;
+}
+
+.x3-onboarding .noun-easel-1198690-1-SO40Oe {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/noun-easel-1198690-1-1@2x.svg);
+  background-size: 100% 100%;
+  height: 114px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 114px;
+}

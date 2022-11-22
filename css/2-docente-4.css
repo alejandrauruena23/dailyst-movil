@@ -1,0 +1,206 @@
+/* screen - 2-docente-4 */
+
+.x2-docente-4 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 667px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.x2-docente-4 .group-9 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 4.0px;
+  min-width: 377px;
+}
+
+.x2-docente-4 .overlap-group4 {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 73px;
+  min-width: 375px;
+  padding: 0 150px;
+}
+
+.x2-docente-4 .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  min-width: 73px;
+}
+
+.x2-docente-4 .group {
+  align-self: flex-start;
+  cursor: pointer;
+  height: 27px;
+  margin-left: 41px;
+  margin-top: 25px;
+  width: 19px;
+}
+
+.x2-docente-4 .crear-un-grupo-de-clase {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-right: 42.0px;
+  margin-top: 41px;
+  min-width: 285px;
+  white-space: nowrap;
+}
+
+.x2-docente-4 .input {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 17px;
+  min-height: 248px;
+  width: 327px;
+}
+
+.x2-docente-4 .overlap-group {
+  align-items: center;
+  background-image: url(../img/trazado-644@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 327px;
+  padding: 0 13.6px;
+}
+
+.x2-docente-4 .nombre {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 38px;
+  text-align: right;
+}
+
+.x2-docente-4 .overlap-group1 {
+  align-items: center;
+  background-image: url(../img/trazado-644@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 327px;
+  padding: 0 12.2px;
+}
+
+.x2-docente-4 .descripcin {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 56px;
+  text-align: right;
+}
+
+.x2-docente-4 .overlap-group2 {
+  align-items: center;
+  background-image: url(../img/trazado-644@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 327px;
+  padding: 0 8.4px;
+}
+
+.x2-docente-4 .nmero-de-estudiantes {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 111px;
+  text-align: right;
+}
+
+.x2-docente-4 .overlap-group3 {
+  align-items: center;
+  background-image: url(../img/trazado-644@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 327px;
+  padding: 0 13.8px;
+}
+
+.x2-docente-4 .das-a-la-semana {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  min-width: 80px;
+  text-align: right;
+}
+
+.x2-docente-4 .group-6 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 3.0px;
+  margin-top: 44px;
+  min-width: 184px;
+}
+
+.x2-docente-4 .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--orange-yellow);
+  border-radius: 3px;
+  display: flex;
+  height: 59px;
+  min-width: 182px;
+  padding: 15px 7px;
+}
+
+.x2-docente-4 .continuar {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  text-align: center;
+  width: 168px;
+}
+
+.x2-docente-4 .group-10 {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 66px;
+  margin-top: 37px;
+  min-width: 375px;
+  padding: 13px 47px;
+}
+
+.x2-docente-4 .noun-ready-2445068-1 {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.x2-docente-4 .vector {
+  height: 24px;
+  margin-left: 55px;
+  margin-top: 2.0px;
+  width: 22px;
+}
+
+.x2-docente-4 .group-1 {
+  cursor: pointer;
+  height: 22px;
+  margin-left: 69px;
+  margin-top: 2.0px;
+  width: 27px;
+}
+
+.x2-docente-4 .group-2 {
+  cursor: pointer;
+  height: 24px;
+  margin-left: 53px;
+  margin-top: 2.0px;
+  width: 24px;
+}

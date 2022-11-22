@@ -1,0 +1,137 @@
+/* screen - 2-docente-5 */
+
+.x2-docente-5 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 667px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.x2-docente-5 .overlap-group1 {
+  height: 73px;
+  position: relative;
+  width: 378px;
+}
+
+.x2-docente-5 .rectngulo-570 {
+  border: 1px solid;
+  border-color: transparent;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.x2-docente-5 .overlap-group {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 73px;
+  left: 1px;
+  min-width: 375px;
+  padding: 0 150px;
+  position: absolute;
+  top: 0;
+}
+
+.x2-docente-5 .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  min-width: 73px;
+}
+
+.x2-docente-5 .group {
+  cursor: pointer;
+  height: 27px;
+  margin-left: 41px;
+  margin-top: 25px;
+  width: 19px;
+}
+
+.x2-docente-5 .taller-ii {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 35px;
+  margin-top: 60px;
+  white-space: nowrap;
+}
+
+.x2-docente-5 .este-es-tu-cdigo-de-clase {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-right: 80.0px;
+  margin-top: 17px;
+  width: 207px;
+}
+
+.x2-docente-5 .post {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 64px;
+  margin-right: 10.0px;
+  margin-top: 22px;
+  min-width: 279px;
+}
+
+.x2-docente-5 .puedes-compartirlo-a {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 64px;
+  width: 279px;
+}
+
+.x2-docente-5 .jkl325 {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 44px;
+  margin-top: 3px;
+  white-space: nowrap;
+}
+
+.x2-docente-5 .group-10 {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 66px;
+  margin-top: 190px;
+  min-width: 375px;
+  padding: 13px 47px;
+}
+
+.x2-docente-5 .noun-ready-2445068-1 {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.x2-docente-5 .vector {
+  height: 24px;
+  margin-left: 55px;
+  margin-top: 2.0px;
+  width: 22px;
+}
+
+.x2-docente-5 .group-1 {
+  cursor: pointer;
+  height: 22px;
+  margin-left: 69px;
+  margin-top: 2.0px;
+  width: 27px;
+}
+
+.x2-docente-5 .group-2 {
+  cursor: pointer;
+  height: 24px;
+  margin-left: 53px;
+  margin-top: 2.0px;
+  width: 24px;
+}

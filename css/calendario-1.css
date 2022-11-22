@@ -1,0 +1,159 @@
+/* screen - calendario-1 */
+
+.calendario-1 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 667px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.calendario-1 .group-9 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  min-width: 377px;
+}
+
+.calendario-1 .overlap-group2 {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 73px;
+  min-width: 375px;
+  padding: 0 150px;
+}
+
+.calendario-1 .dailyst {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  min-width: 73px;
+}
+
+.calendario-1 .dates {
+  align-items: flex-end;
+  display: flex;
+  gap: 16px;
+  height: 89px;
+  margin-left: 1.0px;
+  margin-top: 42px;
+  min-width: 326px;
+}
+
+.calendario-1 .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-height: 89px;
+  width: 155px;
+}
+
+.calendario-1 .fechas {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 45.0px;
+  min-height: 17px;
+  min-width: 46px;
+}
+
+.calendario-1 .overlap-group {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--feijoa);
+  display: flex;
+  height: 48px;
+  min-width: 155px;
+  padding: 14px 15px;
+}
+
+.calendario-1 .date {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+}
+
+.calendario-1 .overlap-group3 {
+  height: 221px;
+  margin-left: 17.0px;
+  margin-top: 47px;
+  position: relative;
+  width: 288px;
+}
+
+.calendario-1 .rectngulo-1450 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 195px;
+  left: 22px;
+  opacity: 0.78;
+  position: absolute;
+  top: 26px;
+  width: 244px;
+}
+
+.calendario-1 .january-2011-plain {
+  height: 208px;
+  left: 22px;
+  position: absolute;
+  top: 13px;
+  width: 243px;
+}
+
+.calendario-1 .rectngulo-1449 {
+  background-color: var(--de-york);
+  border: 1px solid;
+  border-color: transparent;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 288px;
+}
+
+.calendario-1 .group-10 {
+  align-items: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 66px;
+  margin-right: 2.0px;
+  margin-top: 129px;
+  min-width: 375px;
+  padding: 13px 47px;
+}
+
+.calendario-1 .noun-ready-2445068-1 {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.calendario-1 .vector {
+  cursor: pointer;
+  height: 24px;
+  margin-left: 55px;
+  margin-top: 2.0px;
+  width: 22px;
+}
+
+.calendario-1 .group {
+  height: 22px;
+  margin-left: 69px;
+  margin-top: 2.0px;
+  width: 27px;
+}
+
+.calendario-1 .group-1 {
+  cursor: pointer;
+  height: 24px;
+  margin-left: 53px;
+  margin-top: 2.0px;
+  width: 24px;
+}
